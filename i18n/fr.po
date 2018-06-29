@@ -12,160 +12,160 @@ msgstr ""
 "Language: fr\n"
 
 msgid "Totals"
-msgstr ""
+msgstr "Totaux"
 
 msgid "Details"
-msgstr ""
+msgstr "Details"
 
 msgid "Indicator group"
-msgstr ""
+msgstr "Groupe d'indicateurs"
 
 msgid "Boundary"
-msgstr ""
+msgstr "Frontière"
 
 msgid "Other"
-msgstr ""
+msgstr "autres"
 
 msgid "Disaggregation"
-msgstr ""
+msgstr "Désagrégation"
 
 msgid "Organisation unit level"
-msgstr ""
+msgstr "Niveau d'unité d'organisation"
 
 msgid "Organisation unit group"
-msgstr ""
+msgstr "Groupe d'unité d'organisation"
 
 msgid "Selected"
-msgstr ""
+msgstr "Choisi"
 
 msgid "Consistency"
-msgstr ""
+msgstr "Cohérence"
 
 msgid "Consistency analysis type"
-msgstr ""
+msgstr "Analyse de cohérence"
 
 msgid "Between Indicators"
-msgstr ""
+msgstr "Entre indicateurs"
 
 msgid "Over Time"
-msgstr ""
+msgstr "Dans le temps"
 
 msgid "Compare organisation units to"
-msgstr ""
+msgstr "Comparer les unités d'organuisation à"
 
 msgid "Overall result"
-msgstr ""
+msgstr "Resultat géneral"
 
 msgid "Expected result"
-msgstr ""
+msgstr "Résultat attendu"
 
 msgid "Expected relationship"
-msgstr ""
+msgstr "Relation attendue"
 
 msgid "Dropout"
-msgstr ""
+msgstr "Abandon"
 
 msgid "Expected trend"
-msgstr ""
+msgstr "Tendance attendue"
 
 msgid "Increasing/decreasing"
-msgstr ""
+msgstr "Croissant/décroissant"
 
 msgid "Criteria"
-msgstr ""
+msgstr "Critères"
 
 msgid "Data"
-msgstr ""
+msgstr "Données"
 
 msgid "Select data element/indicator"
-msgstr ""
+msgstr "Choisir élément de donnée/indicateur"
 
 msgid "Data element"
-msgstr ""
+msgstr "Elément de donnée"
 
 msgid "Indicator"
-msgstr ""
+msgstr "Indicateur"
 
 msgid "Select data element/indicator for comparison"
-msgstr ""
+msgstr "Choisir élément de donnée/indicateur pour comapraison"
 
 msgid "Period"
-msgstr ""
+msgstr "Période"
 
 msgid "Period type"
-msgstr ""
+msgstr "Type de période"
 
 msgid "Year"
-msgstr ""
+msgstr "Année"
 
 msgid "Select year"
-msgstr ""
+msgstr "Choisir année"
 
 msgid "Select period"
-msgstr ""
+msgstr "Choisir période"
 
 msgid "Reference periods"
-msgstr ""
+msgstr "Périodes de référence"
 
 msgid "No. of Preceding periods"
-msgstr ""
+msgstr "Nb de périodes précédentes"
 
 msgid "Orgunit"
-msgstr ""
+msgstr "OrgUnit"
 
 msgid "Analyze"
-msgstr ""
+msgstr "Analyser"
 
 msgid "Loading data"
-msgstr ""
+msgstr "Chargement de données"
 
 msgid "Processing"
-msgstr ""
+msgstr "Traitement en cours"
 
 msgid "Download"
-msgstr ""
+msgstr "Télécharger"
 
 msgid "Previous"
-msgstr ""
+msgstr "Précédent"
 
 msgid "Unit"
-msgstr ""
+msgstr "Unité"
 
 msgid "Current Period"
-msgstr ""
+msgstr "Période courante"
 
 msgid "Average"
-msgstr ""
+msgstr "Moyenne"
 
 msgid "Forecast"
-msgstr ""
+msgstr "Prévision"
 
 msgid "Dropout rate"
-msgstr ""
+msgstr "Taux d'abandon"
 
 msgid "Ratio"
 msgstr ""
 
 msgid "Weight"
-msgstr ""
+msgstr "Poids"
 
 msgid "Contact"
 msgstr ""
 
 msgid "Drill down"
-msgstr ""
+msgstr "voir niveau inferieur"
 
 msgid "Click on the graph or in the table see details."
-msgstr ""
+msgstr "Cliquer sur le graphique ou le tableau pour voir les détails"
 
 msgid "Dashboard"
-msgstr ""
+msgstr "Tableau de bord"
 
 msgid "Completeness"
-msgstr ""
+msgstr "Complétude"
 
 msgid "completeness"
-msgstr ""
+msgstr "complétude"
 
 msgid "Consistency - time"
 msgstr ""
